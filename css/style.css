@@ -3,7 +3,8 @@ body{
     padding: 0;
     margin: 0;
     background-color: rgba(0,0,0,0.1);
-    font-family: 'Titillium Web', sans-serif;
+    font-family: sans-serif, 'Titillium Web';
+    font-weight: bold;
 }
 
 /* ------------ container ------------ */

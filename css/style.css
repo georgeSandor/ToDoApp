@@ -142,21 +142,25 @@ body{
     color: #f10da5;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 }
 .add-to-do input::-moz-placeholder { /* Firefox 19+ */
     color: #f10da5;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 }
 .add-to-do input:-ms-input-placeholder { /* IE 10+ */
     color: #f10da5;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 }
 .add-to-do input:-moz-placeholder { /* Firefox 18- */
     color: #f10da5;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 }
 
 
